@@ -1,5 +1,3 @@
-
-
 /**
  * main.c
  */
@@ -8,6 +6,6 @@
 #include "names.h"
 int main(void)
 {
-    printf ("Welcome to my home %d",David);
+    printf ("Welcome to my home %d",allNames[0]);
 	return 0;
 }

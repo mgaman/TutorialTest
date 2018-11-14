@@ -8,6 +8,7 @@
 #ifndef NAMES_H_
 #define NAMES_H_
 
-const char* David = "David";
+
+char *allNames[] = {"David","Fred"};
 
 #endif /* NAMES_H_ */
